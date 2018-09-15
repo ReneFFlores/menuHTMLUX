@@ -1,7 +1,7 @@
 {
     "menu": [
         {
-            "categoryName": "Burgers",
+            "categoryName": "Combos",
             "items": [
                 {
                     "name": "Infant Burger",
@@ -74,12 +74,7 @@
                         "vitamin B"
                     ],
                     "id": "b005"
-                }
-            ]
-        },
-        {
-            "categoryName": "Sandwitches",
-            "items": [
+                },
                 {
                     "name": "Classic Veg Grilled Sandwitches",
                     "price": 125,
@@ -151,12 +146,7 @@
                         "pineaple cubes"
                     ],
                     "id": "s005"
-                }
-            ]
-        },
-        {
-            "categoryName": "Pizzas",
-            "items": [
+                },
                 {
                     "name": "Cheeze Pizza",
                     "price": 125,
@@ -231,12 +221,7 @@
                         "pineaple cubes"
                     ],
                     "id": "p005"
-                }
-            ]
-        },
-        {
-            "categoryName": "Drinks",
-            "items": [
+                },
                 {
                     "name": "Latte",
                     "price": 125,
