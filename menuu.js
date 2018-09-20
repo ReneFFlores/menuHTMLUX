@@ -200,69 +200,6 @@
                         "pineaple cubes"
                     ],
                     "id": "p005"
-                },
-                {
-                    "name": "Latte",
-                    "price": 125,
-                    "discount": 3,
-                    "ingredients": [
-                        "milk",
-                        "caramel",
-                        "coffee beans",
-                        "melted dark chocolate",
-                        "cane sugar"
-                    ],
-                    "id": "d001"
-                },
-                {
-                    "name": "Americano",
-                    "price": 150,
-                    "discount": 14,
-                    "ingredients": [
-                        "water",
-                        "coffee beans",
-                        "chocolate chips",
-                        "cane sugar"
-                    ],
-                    "id": "d002"
-                },
-                {
-                    "name": "Cappucino",
-                    "price": 175,
-                    "discount": 8,
-                    "ingredients": [
-                        "milk",
-                        "vanila",
-                        "coffee beans",
-                        "melted dark chocolate",
-                        "cane sugar"
-                    ],
-                    "id": "d003"
-                },
-                {
-                    "name": "Espresso",
-                    "price": 150,
-                    "discount": 5,
-                    "ingredients": [
-                        "water",
-                        "coffee beans",
-                        "ultra dark chocolate",
-                        "cane sugar"
-                    ],
-                    "id": "d004"
-                },
-                {
-                    "name": "Macchiato",
-                    "price": 115,
-                    "discount": 50,
-                    "ingredients": [
-                        "milk",
-                        "caramel",
-                        "coffee beans",
-                        "melted white chocolate",
-                        "cane sugar"
-                    ],
-                    "id": "d005"
                 }
             ]
         }
