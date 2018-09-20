@@ -9,12 +9,9 @@
                     "discount": 0,
                     "rating": 3,
                     "ingredients": [
-                        "buns",
-                        "lettuce",
-                        "cheeze",
-                        "olives",
-                        "red sauce",
-                        "pineaple cubes"
+                        "hamburguesa tamaño S",
+                        "papas fritas",
+                        "refresco"
                     ],
                     "id": "b001"
                 },
