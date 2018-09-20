@@ -7,7 +7,6 @@
                     "name": "Infant Burger",
                     "price": 125,
                     "discount": 0,
-                    "rating": 3,
                     "ingredients": [
                         "hamburguesa tamaño S",
                         "papas fritas",
@@ -19,7 +18,6 @@
                     "name": "Little Boy Burger",
                     "price": 150,
                     "discount": 10,
-                    "rating": 4,
                     "ingredients": [
                         "buns",
                         "lettuce",
@@ -35,7 +33,6 @@
                     "name": "Big Boy Burger",
                     "price": 175,
                     "discount": 20,
-                    "rating": 5,
                     "ingredients": [
                         "buns",
                         "lettuce",
@@ -51,7 +48,6 @@
                     "name": "Mid-life Crisis Burger",
                     "price": 150,
                     "discount": 15,
-                    "rating": 2,
                     "ingredients": [
                         "buns",
                         "lettuce",
@@ -64,7 +60,6 @@
                     "name": "Better Take Your Pills Burger",
                     "price": 115,
                     "discount": 5,
-                    "rating": 1,
                     "ingredients": [
                         "buns",
                         "lettuce",
@@ -76,7 +71,6 @@
                     "name": "Classic Veg Grilled Sandwitches",
                     "price": 125,
                     "discount": 10,
-                    "rating": 4,
                     "ingredients": [
                         "bread",
                         "cheeze",
@@ -90,7 +84,6 @@
                     "name": "Cajun Chicken Burrito",
                     "price": 150,
                     "discount": 14,
-                    "rating": 2,
                     "ingredients": [
                         "bread",
                         "cheeze",
@@ -103,7 +96,6 @@
                     "name": "Shredded Lamb Taco",
                     "price": 175,
                     "discount": 12,
-                    "rating": 1,
                     "ingredients": [
                         "bread",
                         "lettuce",
@@ -118,7 +110,6 @@
                     "name": "Chicken Shwarma Roll",
                     "price": 150,
                     "discount": 30,
-                    "rating": 4,
                     "ingredients": [
                         "bread",
                         "lettuce",
@@ -133,7 +124,6 @@
                     "name": "Maxican Delight Sandwitch",
                     "price": 115,
                     "discount": 25,
-                    "rating": 3,
                     "ingredients": [
                         "bread",
                         "lettuce",
@@ -148,7 +138,6 @@
                     "name": "Cheeze Pizza",
                     "price": 125,
                     "discount": 15,
-                    "rating": 4,
                     "ingredients": [
                         "flat bread",
                         "tomatoes",
@@ -163,7 +152,6 @@
                     "name": "Veg Pizza",
                     "price": 150,
                     "discount": 5,
-                    "rating": 4,
                     "ingredients": [
                         "flat bread",
                         "tomatoes",
@@ -178,7 +166,6 @@
                     "name": "Chicken Aroma Pizza",
                     "price": 175,
                     "discount": 18,
-                    "rating": 4,
                     "ingredients": [
                         "flat bread",
                         "tomatoes",
@@ -193,7 +180,6 @@
                     "name": "Chicken Tikka Pizza",
                     "price": 150,
                     "discount": 22,
-                    "rating": 4,
                     "ingredients": [
                         "flat bread",
                         "tomatoes",
@@ -208,7 +194,6 @@
                     "name": "Thin-crust King Pizza",
                     "price": 115,
                     "discount": 4,
-                    "rating": 4,
                     "ingredients": [
                         "flat bread",
                         "tomatoes",
@@ -223,7 +208,6 @@
                     "name": "Latte",
                     "price": 125,
                     "discount": 3,
-                    "rating": 4,
                     "ingredients": [
                         "milk",
                         "caramel",
@@ -237,7 +221,6 @@
                     "name": "Americano",
                     "price": 150,
                     "discount": 14,
-                    "rating": 4,
                     "ingredients": [
                         "water",
                         "coffee beans",
@@ -250,7 +233,6 @@
                     "name": "Cappucino",
                     "price": 175,
                     "discount": 8,
-                    "rating": 4,
                     "ingredients": [
                         "milk",
                         "vanila",
@@ -264,7 +246,6 @@
                     "name": "Espresso",
                     "price": 150,
                     "discount": 5,
-                    "rating": 4,
                     "ingredients": [
                         "water",
                         "coffee beans",
@@ -277,7 +258,6 @@
                     "name": "Macchiato",
                     "price": 115,
                     "discount": 50,
-                    "rating": 4,
                     "ingredients": [
                         "milk",
                         "caramel",
