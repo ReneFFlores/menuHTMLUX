@@ -7,6 +7,7 @@
                     "name": "Infant Burger",
                     "price": 125,
                     "discount": 0,
+                    "url:" "https://i.pinimg.com/originals/e6/d5/b9/e6d5b99e200510212d8e0f4e8fdb5043.jpg",
                     "ingredients": [
                         "hamburguesa tamaño S",
                         "papas fritas",
@@ -18,6 +19,7 @@
                     "name": "Sorpresa Boy Burger",
                     "price": 150,
                     "discount": 10,
+                    "url:" "https://i.pinimg.com/originals/e6/d5/b9/e6d5b99e200510212d8e0f4e8fdb5043.jpg",
                     "ingredients": [
                         "Hamburguesa con queso",
                         "Papas fritas pequeñas",
@@ -30,6 +32,7 @@
                     "name": "Big Boy Burger",
                     "price": 175,
                     "discount": 20,
+                    "url:" "https://i.pinimg.com/originals/e6/d5/b9/e6d5b99e200510212d8e0f4e8fdb5043.jpg",
                     "ingredients": [
                         "buns",
                         "lettuce",
@@ -45,6 +48,7 @@
                     "name": "Mid-life Crisis Burger",
                     "price": 150,
                     "discount": 15,
+                    "url:" "https://i.pinimg.com/originals/e6/d5/b9/e6d5b99e200510212d8e0f4e8fdb5043.jpg",
                     "ingredients": [
                         "buns",
                         "lettuce",
@@ -57,6 +61,7 @@
                     "name": "Better Take Your Pills Burger",
                     "price": 115,
                     "discount": 5,
+                    "url:" "https://i.pinimg.com/originals/e6/d5/b9/e6d5b99e200510212d8e0f4e8fdb5043.jpg",
                     "ingredients": [
                         "buns",
                         "lettuce",
@@ -68,6 +73,7 @@
                     "name": "Classic Veg Grilled Sandwitches",
                     "price": 125,
                     "discount": 10,
+                    "url:" "https://i.pinimg.com/originals/e6/d5/b9/e6d5b99e200510212d8e0f4e8fdb5043.jpg",
                     "ingredients": [
                         "bread",
                         "cheeze",
@@ -81,6 +87,7 @@
                     "name": "Cajun Chicken Burrito",
                     "price": 150,
                     "discount": 14,
+                    "url:" "https://i.pinimg.com/originals/e6/d5/b9/e6d5b99e200510212d8e0f4e8fdb5043.jpg",
                     "ingredients": [
                         "bread",
                         "cheeze",
@@ -93,6 +100,7 @@
                     "name": "Shredded Lamb Taco",
                     "price": 175,
                     "discount": 12,
+                    "url:" "https://i.pinimg.com/originals/e6/d5/b9/e6d5b99e200510212d8e0f4e8fdb5043.jpg",
                     "ingredients": [
                         "bread",
                         "lettuce",
@@ -107,6 +115,7 @@
                     "name": "Chicken Shwarma Roll",
                     "price": 150,
                     "discount": 30,
+                    "url:" "https://i.pinimg.com/originals/e6/d5/b9/e6d5b99e200510212d8e0f4e8fdb5043.jpg",
                     "ingredients": [
                         "bread",
                         "lettuce",
@@ -121,6 +130,7 @@
                     "name": "Maxican Delight Sandwitch",
                     "price": 115,
                     "discount": 25,
+                    "url:" "https://i.pinimg.com/originals/e6/d5/b9/e6d5b99e200510212d8e0f4e8fdb5043.jpg",
                     "ingredients": [
                         "bread",
                         "lettuce",
@@ -135,6 +145,7 @@
                     "name": "Cheeze Pizza",
                     "price": 125,
                     "discount": 15,
+                    "url:" "https://i.pinimg.com/originals/e6/d5/b9/e6d5b99e200510212d8e0f4e8fdb5043.jpg",
                     "ingredients": [
                         "flat bread",
                         "tomatoes",
@@ -149,6 +160,7 @@
                     "name": "Veg Pizza",
                     "price": 150,
                     "discount": 5,
+                    "url:" "https://i.pinimg.com/originals/e6/d5/b9/e6d5b99e200510212d8e0f4e8fdb5043.jpg",
                     "ingredients": [
                         "flat bread",
                         "tomatoes",
@@ -163,6 +175,7 @@
                     "name": "Chicken Aroma Pizza",
                     "price": 175,
                     "discount": 18,
+                    "url:" "https://i.pinimg.com/originals/e6/d5/b9/e6d5b99e200510212d8e0f4e8fdb5043.jpg",
                     "ingredients": [
                         "flat bread",
                         "tomatoes",
@@ -177,6 +190,7 @@
                     "name": "Chicken Tikka Pizza",
                     "price": 150,
                     "discount": 22,
+                    "url:" "https://i.pinimg.com/originals/e6/d5/b9/e6d5b99e200510212d8e0f4e8fdb5043.jpg",
                     "ingredients": [
                         "flat bread",
                         "tomatoes",
@@ -191,6 +205,7 @@
                     "name": "Thin-crust King Pizza",
                     "price": 115,
                     "discount": 4,
+                    "url:" "https://i.pinimg.com/originals/e6/d5/b9/e6d5b99e200510212d8e0f4e8fdb5043.jpg",
                     "ingredients": [
                         "flat bread",
                         "tomatoes",
