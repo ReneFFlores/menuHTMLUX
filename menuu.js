@@ -15,17 +15,14 @@
                     "id": "b001"
                 },
                 {
-                    "name": "Little Boy Burger",
+                    "name": "Sorpresa Boy Burger",
                     "price": 150,
                     "discount": 10,
                     "ingredients": [
-                        "buns",
-                        "lettuce",
-                        "cheeze",
-                        "diced chicken",
-                        "olives",
-                        "mint sauce",
-                        "caeser dressing"
+                        "Hamburguesa con queso",
+                        "Papas fritas pequeñas",
+                        "Un refresco pequeño",
+                        "Un juguete al azar"
                     ],
                     "id": "b002"
                 },
