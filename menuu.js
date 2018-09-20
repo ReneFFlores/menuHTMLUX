@@ -1,6 +1,6 @@
 {
     "menu": [
-        {
+        { 
             "categoryName": "Combos",
             "items": [
                 {
